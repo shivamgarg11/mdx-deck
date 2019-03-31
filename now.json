@@ -1,1 +1,1 @@
-{"version":2,"name":"mdx-deck","alias":"valarcodaeris.now.sh","builds":[{"src":"deck.mdx","use":"@now/mdx-deck"}]}
+{"version":2,"alias":"valarcodaeris.now.sh","name":"mdx-deck","builds":[{"src":"deck.mdx","use":"@now/mdx-deck"}]}
